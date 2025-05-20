@@ -115,12 +115,12 @@ Relasi:
 
 | Halaman           | Preview                                     |
 | ----------------- | ------------------------------------------- |
-| **Daftar Event**  | ![Event List](screenshots/event_list.png)   |
-| **Form Event**    | ![Event Form](screenshots/event_form.png)   |
-| **Daftar Venue**  | ![Venue List](screenshots/venue_list.png)   |
-| **Form Venue**    | ![Venue Form](screenshots/venue_form.png)   |
-| **Daftar Ticket** | ![Ticket List](screenshots/ticket_list.png) |
-| **Form Ticket**   | ![Ticket Form](screenshots/ticket_form.png) |
+| **Daftar Event**  | ![image](https://github.com/user-attachments/assets/485245f7-821d-448c-a117-778934da91b6)  |
+| **Form Event**    | ![image](https://github.com/user-attachments/assets/31568ca3-20fb-41de-b6bf-4e5e3c1f4516) ![image](https://github.com/user-attachments/assets/82aa45d7-4093-45bb-9f85-cf06aa6e582d)  |
+| **Daftar Venue**  | ![image](https://github.com/user-attachments/assets/812a2668-f1cf-4437-9fa7-54ec3918551c) |
+| **Form Venue**    | ![image](https://github.com/user-attachments/assets/82e71696-af1f-456d-8e5c-85801e718b25) ![image](https://github.com/user-attachments/assets/3b9074b4-fec7-41bf-91ca-a801b1086430) |
+| **Daftar Ticket** | ![image](https://github.com/user-attachments/assets/45491922-d4e1-4bff-884b-f74169466eab) |
+| **Form Ticket**   | ![image](https://github.com/user-attachments/assets/b02ab2a5-3dc5-47f2-8c55-5144627fd620) ![image](https://github.com/user-attachments/assets/e51209a4-8750-4838-89d3-df8cdec18f26) |
 
 ---
 
