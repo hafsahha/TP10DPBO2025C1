@@ -36,7 +36,7 @@ DPBO_MVVM/
 │   └── Database.php                  ← konfigurasi koneksi database
 │
 ├── database/
-│   └── event_management.sql          ← database event management
+│   └── event_management.sql          ← struktur dan data awal database
 │
 ├── model/
 │   ├── Event.php                    ← model untuk tabel event
@@ -56,9 +56,7 @@ DPBO_MVVM/
 │   ├── ticket_form.php              ← form tambah/edit ticket
 │   └── ticket_list.php              ← daftar ticket
 │
-├── index.php                       ← routing utama aplikasi
-├── README.md                       ← dokumentasi ini
-└── db_event_management.sql         ← struktur dan data awal database
+└── index.php                       ← routing utama aplikasi
 ```
 
 ---
