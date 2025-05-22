@@ -75,6 +75,9 @@ DPBO_MVVM/
 
 **Database: `event_management`**
 
+![image](https://github.com/user-attachments/assets/24e589fb-3c93-401f-beb8-3ffae233f51a)
+
+
 * `event` (`id`, `event_name`, `event_date`)
 * `venue` (`id`, `venue_name`, `location`)
 * `ticket` (`id`, `event_id`, `venue_id`, `price`)
