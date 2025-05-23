@@ -116,6 +116,10 @@ Relasi:
 
 ## Dokumentasi dan Screenshot
 
+
+https://github.com/user-attachments/assets/aaff7854-e027-4348-bcb2-f6f6f3d1c9ca
+
+
 | Halaman           | Preview                                     |
 | ----------------- | ------------------------------------------- |
 | **Daftar Event**  | ![image](https://github.com/user-attachments/assets/485245f7-821d-448c-a117-778934da91b6)  |
